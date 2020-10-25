@@ -31,15 +31,15 @@ float inputnum()
 float calculat(float sum)
 {
 	float ans;
-	if (sum <= 5)
+	if (sum < 5)
 	{
 		ans = sum * 2;
 	}
-	if (5 <= sum && sum <= 10)
+	if (5 < sum && sum < 10)
 	{
 		ans = sum * 1.8;
 	}
-	if (10 <= sum && sum <= 50)
+	if (10 < sum && sum < 50)
 	{
 		ans = sum * 1.6;
 	}
