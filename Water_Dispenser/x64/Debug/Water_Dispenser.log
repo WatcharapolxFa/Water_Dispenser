@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\007xfa\source\repos\Water_Dispenser\Water_Dispenser\Source.cpp(40,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\007xfa\source\repos\Water_Dispenser\Water_Dispenser\Source.cpp(44,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\007xfa\source\repos\Water_Dispenser\Water_Dispenser\Source.cpp(48,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\007xfa\source\repos\Water_Dispenser\Water_Dispenser\Source.cpp(93,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Water_Dispenser.vcxproj -> C:\Users\007xfa\source\repos\Water_Dispenser\x64\Debug\Water_Dispenser.exe
